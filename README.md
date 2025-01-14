@@ -31,7 +31,7 @@ Whether you're preparing for interviews or upskilling, this challenge will help 
 | Day | Problem ID | Title                                                                                                                                          | Difficulty | Date       | Status   |
 |-----|------------|------------------------------------------------------------------------------------------------------------------------------------------------|------------|------------|----------|
 | 1   | 1407       | [Top Travellers](https://leetcode.com/problems/top-travellers)                                                                                 | Easy       | 2025-01-13 | Done     |
-| 2   | 262        | [Trips and Users](https://leetcode.com/problems/trips-and-users)                                                                               | Hard       | 2025-01-14 | Pending  |
+| 2   | 262        | [Trips and Users](https://leetcode.com/problems/trips-and-users)                                                                               | Hard       | 2025-01-14 | Done  |
 | 3   | 1527       | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)                                                           | Easy       | 2025-01-15 | Pending  |
 | 4   | 1667       | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)                                                                     | Easy       | 2025-01-16 | Pending  |
 | 5   | 1179       | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table)                                                           | Easy       | 2025-01-17 | Pending  |
