@@ -68,7 +68,7 @@ Use this table to add any interesting questions you encounter during the challen
 
 | ID     | Interesting Question Title                 | Notes                 |
 |--------|--------------------------------------------|-----------------------|
-| 00000  |                                            |                       |
+| 1341   | [Movie Rating](https://leetcode.com/problems/movie-rating)| UNION ALL                  |
 
 
 ---
