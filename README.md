@@ -34,7 +34,7 @@ Whether you're preparing for interviews or upskilling, this challenge will help 
 | 2   | 262        | [Trips and Users](https://leetcode.com/problems/trips-and-users)                                                                               | Hard       | 2025-01-14 | Done  |
 | 3   | 1527       | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition)                                                           | Easy       | 2025-01-15 | Done  |
 | 4   | 1667       | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table)                                                                     | Easy       | 2025-01-16 | Done  |
-| 5   | 1179       | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table)                                                           | Easy       | 2025-01-17 | Pending  |
+| 5   | 1179       | [Reformat Department Table](https://leetcode.com/problems/reformat-department-table)                                                           | Easy       | 2025-01-17 | Done  |
 | 6   | 1084       | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii)                                                                         | Easy       | 2025-01-18 | Pending  |
 | 7   | 511        | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i)                                                                     | Easy       | 2025-01-19 | Pending  |
 | 8   | 1795       | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table)                                                             | Easy       | 2025-01-20 | Pending  |
