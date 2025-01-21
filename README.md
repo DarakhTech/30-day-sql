@@ -38,7 +38,7 @@ Whether you're preparing for interviews or upskilling, this challenge will help 
 | 6   | 1084       | [Sales Analysis III](https://leetcode.com/problems/sales-analysis-iii)                                                                         | Easy       | 2025-01-18 | Done  |
 | 7   | 511        | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i)                                                                     | Easy       | 2025-01-19 | Done  |
 | 8   | 1795       | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table)                                                             | Easy       | 2025-01-20 | Done  |
-| 9   | 1693       | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners)                                                             | Easy       | 2025-01-21 | Pending  |
+| 9   | 1693       | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners)                                                             | Easy       | 2025-01-21 | Done  |
 | 10  | 175        | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables)                                                                         | Easy       | 2025-01-22 | Pending  |
 | 11  | 176        | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary)                                                                   | Medium     | 2025-01-23 | Pending  |
 | 12  | 177        | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)                                                                         | Medium     | 2025-01-24 | Pending  |
