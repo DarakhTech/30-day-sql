@@ -40,7 +40,7 @@ Whether you're preparing for interviews or upskilling, this challenge will help 
 | 8   | 1795       | [Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table)                                                             | Easy       | 2025-01-20 | Done  |
 | 9   | 1693       | [Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners)                                                             | Easy       | 2025-01-21 | Done  |
 | 10  | 175        | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables)                                                                         | Easy       | 2025-01-22 | Done  |
-| 11  | 176        | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary)                                                                   | Medium     | 2025-01-23 | Pending  |
+| 11  | 176        | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary)                                                                   | Medium     | 2025-01-23 | GOOD  |
 | 12  | 177        | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)                                                                         | Medium     | 2025-01-24 | Pending  |
 | 13  | 178        | [Rank Scores](https://leetcode.com/problems/rank-scores)                                                                                       | Medium     | 2025-01-25 | Pending  |
 | 14  | 180        | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)                                                                       | Medium     | 2025-01-26 | Pending  |
