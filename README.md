@@ -45,7 +45,7 @@ Whether you're preparing for interviews or upskilling, this challenge will help 
 | 13  | 178        | [Rank Scores](https://leetcode.com/problems/rank-scores)                                                                                       | Medium     | 2025-01-25 | Done  |
 | 14  | 180        | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)                                                                       | Medium     | 2025-01-26 | Pending  |
 | 15  | 181        | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)                         | Easy       | 2025-01-27 | Pending  |
-| 16  | 182        | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails)                                                                             | Easy       | 2025-01-28 | Pending  |
+| 16  | 182        | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails)                                                                             | Easy       | 2025-01-28 | Done  |
 | 17  | 183        | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)                                                           | Easy       | 2025-01-29 | Pending  |
 | 18  | 184        | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary)                                                           | Medium     | 2025-01-30 | Pending  |
 | 19  | 185        | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)                                                   | Hard       | 2025-01-31 | Pending  |
