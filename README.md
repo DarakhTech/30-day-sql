@@ -25,6 +25,8 @@ This is a fun way to stay accountable and improve your SQL skills by solving one
 Whether you're preparing for interviews or upskilling, this challenge will help reinforce key SQL concepts like `GROUP BY`, `HAVING`, `JOIN`, `UNION`, and `RANK`.
 
 ---
+I finished the questions before time as they were easy towards the end.
+I will try to do extras after this.
 
 ## Challenge Schedule
 
@@ -43,23 +45,23 @@ Whether you're preparing for interviews or upskilling, this challenge will help 
 | 11  | 176        | [Second Highest Salary](https://leetcode.com/problems/second-highest-salary)                                                                   | Medium     | 2025-01-23 | GOOD  |
 | 12  | 177        | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary)                                                                         | Medium     | 2025-01-24 | GOOD  |
 | 13  | 178        | [Rank Scores](https://leetcode.com/problems/rank-scores)                                                                                       | Medium     | 2025-01-25 | Done  |
-| 14  | 180        | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)                                                                       | Medium     | 2025-01-26 | Pending  |
-| 15  | 181        | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)                         | Easy       | 2025-01-27 | Pending  |
+| 14  | 180        | [Consecutive Numbers](https://leetcode.com/problems/consecutive-numbers)                                                                       | Medium     | 2025-01-26 | Done  |
+| 15  | 181        | [Employees Earning More Than Their Managers](https://leetcode.com/problems/employees-earning-more-than-their-managers)                         | Easy       | 2025-01-27 | Done  |
 | 16  | 182        | [Duplicate Emails](https://leetcode.com/problems/duplicate-emails)                                                                             | Easy       | 2025-01-28 | Done  |
-| 17  | 183        | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)                                                           | Easy       | 2025-01-29 | Pending  |
-| 18  | 184        | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary)                                                           | Medium     | 2025-01-30 | Pending  |
-| 19  | 185        | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)                                                   | Hard       | 2025-01-31 | Pending  |
-| 20  | 1581       | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy       | 2025-02-01 | Pending  |
-| 21  | 1965       | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information)                                         | Easy       | 2025-02-02 | Pending  |
-| 22  | 196        | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)                                                               | Easy       | 2025-02-03 | Pending  |
-| 23  | 197        | [Rising Temperature](https://leetcode.com/problems/rising-temperature)                                                                         | Easy       | 2025-02-04 | Pending  |
-| 24  | 1587       | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii)                                                               | Easy       | 2025-02-05 | Pending  |
-| 25  | 584        | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee)                                                                   | Easy       | 2025-02-06 | Pending  |
-| 26  | 586        | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders)                   | Easy       | 2025-02-07 | Pending  |
-| 27  | 595        | [Big Countries](https://leetcode.com/problems/big-countries)                                                                                   | Easy       | 2025-02-08 | Pending  |
-| 28  | 596        | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)                                                     | Easy       | 2025-02-09 | Pending  |
-| 29  | 1729       | [Find Followers Count](https://leetcode.com/problems/find-followers-count)                                                                     | Easy       | 2025-02-10 | Pending  |
-| 30  | 1741       | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee)                                 | Easy       | 2025-02-11 | Pending  |
+| 17  | 183        | [Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order)                                                           | Easy       | 2025-01-29 | Done  |
+| 18  | 184        | [Department Highest Salary](https://leetcode.com/problems/department-highest-salary)                                                           | Medium     | 2025-01-30 | Done  |
+| 19  | 185        | [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries)                                                   | Hard       | 2025-01-31 | Done  |
+| 20  | 1581       | [Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions) | Easy       | 2025-02-01 | Done  |
+| 21  | 1965       | [Employees With Missing Information](https://leetcode.com/problems/employees-with-missing-information)                                         | Easy       | 2025-02-02 | Done  |
+| 22  | 196        | [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails)                                                               | Easy       | 2025-02-03 | Done  |
+| 23  | 197        | [Rising Temperature](https://leetcode.com/problems/rising-temperature)                                                                         | Easy       | 2025-02-04 | Done  |
+| 24  | 1587       | [Bank Account Summary II](https://leetcode.com/problems/bank-account-summary-ii)                                                               | Easy       | 2025-02-05 | Done  |
+| 25  | 584        | [Find Customer Referee](https://leetcode.com/problems/find-customer-referee)                                                                   | Easy       | 2025-02-06 | Done  |
+| 26  | 586        | [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders)                   | Easy       | 2025-02-07 | Done  |
+| 27  | 595        | [Big Countries](https://leetcode.com/problems/big-countries)                                                                                   | Easy       | 2025-02-08 | Done  |
+| 28  | 596        | [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students)                                                     | Easy       | 2025-02-09 | Done  |
+| 29  | 1729       | [Find Followers Count](https://leetcode.com/problems/find-followers-count)                                                                     | Easy       | 2025-02-10 | Done  |
+| 30  | 1741       | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee)                                 | Easy       | 2025-02-11 | Done  |
 
 
 ## Extras
